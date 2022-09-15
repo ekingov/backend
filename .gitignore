@@ -4,6 +4,9 @@
 ### Eclipse ###
 .classpath
 .project
+.pom.properties
+
+target/
 
 .metadata
 bin/
